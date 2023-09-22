@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/moviesFragment" android:title="Movies" app:showAsAction="always"
+        android:icon="@drawable/movies" />
+
+    <item android:id="@+id/showsFragment" android:title="Shows" app:showAsAction="always"
+        android:icon="@drawable/shows" />
+
+    <item android:id="@+id/actorsActressesFragment" android:title="Actors" app:showAsAction="always"
+        android:icon="@drawable/actors" />
+
+</menu>

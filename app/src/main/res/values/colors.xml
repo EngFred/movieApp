@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="g_card_background">#FAFDFF</color>
+    <color name="g_search_and_icons">#FAFBFC</color>
+    <color name="g_line">#E9EAEC</color>
+    <color name="g_blue100">#B8D9FA</color>
+
+</resources>
